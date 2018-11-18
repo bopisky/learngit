@@ -3,3 +3,4 @@ git is a free software distributed by GPL
 git has a mutable index called stage
 git tracks changes
 add to stage
+push to remote repository
